@@ -2,4 +2,5 @@
 2 - To grant storage to Termux:- termux-setup-storage
 3 - To get the lust of all the folders:- ls
 4 - To get the liust of all the hidden files and folders:- ls -a
-5 - To 
+5 - To change directory:- cd
+6 - To get back to the original directory:- cd ..
